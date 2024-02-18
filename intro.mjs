@@ -29,9 +29,9 @@ const guestElement = await page.waitForSelector(
   "img[alt='FlexyMama - A beginner-friendly game to learn CSS Flexbox']"
 );
 await guestElement.scrollIntoView();
-await guestElement.click(
-  "img[alt='FlexyMama - A beginner-friendly game to learn CSS Flexbox']"
-);
+// await guestElement.click(
+//   "img[alt='FlexyMama - A beginner-friendly game to learn CSS Flexbox']"
+// );
 // await setTimeout(4000);
 await setTimeout(4000);
 await page.screenshot({ path: "MAMA.png" });
