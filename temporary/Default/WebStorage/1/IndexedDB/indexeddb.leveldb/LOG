@@ -1,7 +1,5 @@
-2024/02/19-02:35:57.869 5d40 Reusing MANIFEST D:\GitHub\automation\screen-capture\temporary\Default\WebStorage\1\IndexedDB\indexeddb.leveldb/MANIFEST-000001
-2024/02/19-02:35:57.876 5d40 Recovering log #83
-2024/02/19-02:35:57.876 5d40 Reusing old log D:\GitHub\automation\screen-capture\temporary\Default\WebStorage\1\IndexedDB\indexeddb.leveldb/000083.log 
-2024/02/19-02:35:59.829 1878 Compacting 1@1 + 1@2 files
-2024/02/19-02:35:59.833 1878 Generated table #86@1: 82 keys, 11494 bytes
-2024/02/19-02:35:59.833 1878 Compacted 1@1 + 1@2 files => 11494 bytes
-2024/02/19-02:35:59.835 1878 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/02/19-02:48:15.625 3c78 Reusing MANIFEST D:\GitHub\automation\screen-capture\temporary\Default\WebStorage\1\IndexedDB\indexeddb.leveldb/MANIFEST-000001
+2024/02/19-02:48:15.625 3c78 Recovering log #83
+2024/02/19-02:48:15.627 3c78 Reusing old log D:\GitHub\automation\screen-capture\temporary\Default\WebStorage\1\IndexedDB\indexeddb.leveldb/000083.log 
+2024/02/19-02:48:15.627 3c78 Delete type=2 #81
+2024/02/19-02:48:15.627 3c78 Delete type=2 #84

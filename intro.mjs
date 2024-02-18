@@ -35,5 +35,6 @@ await guestElement.scrollIntoView();
 // await setTimeout(4000);
 await setTimeout(4000);
 await page.screenshot({ path: "MAMA.png" });
+await page.screenshot({ path: "test.png" });
 
 await browser.close();
